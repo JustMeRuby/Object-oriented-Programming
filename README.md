@@ -1,4 +1,4 @@
-#Homework of "Object-oriented Programming" course.
+# Homework of "Object-oriented Programming" course.
 
 Ellipse: Define ellipse. Check if 2 ellipses overlap. Check if a given point is inside an ellipse.
 
